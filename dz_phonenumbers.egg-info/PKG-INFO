@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: dz-phonenumbers
+Version: 1.0.0
+Summary: Algerian phone numbers as value object, python implementation
+Home-page: UNKNOWN
+Author: Walid Ziouche
+Author-email: hi@walid.dev
+License: MIT
+Project-URL: Bug Reports, https://github.com/01walid/py-dz-phone-number/issues
+Project-URL: Source, https://github.com/01walid/py-dz-phone-number
+Description: long_description
+Keywords: dz phone number tel telephone mobile regex
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Telecommunications Industry
+Classifier: Topic :: Utilities
+Classifier: Typing :: Typed
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.6, <4
+Description-Content-Type: text/markdown
+Provides-Extra: dev

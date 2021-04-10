@@ -1,0 +1,12 @@
+setup.py
+dz_phone_numbers/__init__.py
+dz_phone_numbers/lib.py
+dz_phonenumbers.egg-info/PKG-INFO
+dz_phonenumbers.egg-info/SOURCES.txt
+dz_phonenumbers.egg-info/dependency_links.txt
+dz_phonenumbers.egg-info/requires.txt
+dz_phonenumbers.egg-info/top_level.txt
+tests/__init__.py
+tests/test_invalid_phone_numbers.py
+tests/test_phone_carrier.py
+tests/test_valid_numbers.py
